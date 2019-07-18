@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.greeting {
+  padding: 20px;
+  background: darkcyan;
+  color: white;
+  font-size: 28px;
+}
